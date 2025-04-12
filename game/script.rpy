@@ -1,10 +1,9 @@
-﻿define sm = Character("Spider-Man")
-define t = Character("Teléfono")
-define im = Character("Iron-Man")
-define dv = Character("Duende Verde")
-define hg = Character("Hermano Gemelo")
-define n = Character("Narrador")
-
+define sm = Character("Spider-Man")
+define t = Character ("Teléfono", color= "#aaaaaaff")
+define im = Character ("Iron-Man", color= "#ff0000")
+define dv = Character ("Duende Verde", color= "#00ff00")
+define hg = Character ("Hermano Gemelo")
+define n = Character ("Narrador", color= "#ffffff")
 label start:
 
     scene opening scene

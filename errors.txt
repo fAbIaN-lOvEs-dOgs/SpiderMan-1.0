@@ -2,13 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/gui.rpy", line 90: invalid syntax
-    "gui/main_menu.jpg" at Transform(zoom= 1.5)
-                         ^
-
-File "game/gui.rpy", line 91: invalid syntax
-    "gui/game_menu.jpg" at Transform(zoom= 1.5)
-                         ^
+File "game/script.rpy", line 3: is not terminated with a newline. (Check strings and parenthesis.)
+    define im = Character ("Iron-Man", color= "#ff0000"）
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Fri Apr 11 22:48:19 2025
+Sat Apr 12 11:03:03 2025
